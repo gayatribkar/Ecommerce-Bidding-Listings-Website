@@ -1,8 +1,8 @@
-Ecommerce-Bidding-Listings-Website
+#Ecommerce-Bidding-Listings-Website
 
 Developed a django web app where we can add new product listing and other users can bid on it and if the Listing is closed, person with highest bidding will be the winner
 
-- Contains following functionalities
+Contains following functionalities
 - Login and Register Page
 - Create Listing Page (to authenticated users)
 - Product Listing page
